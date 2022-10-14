@@ -23,14 +23,14 @@ public class Main {
             System.out.println("Enter Your Placement (1-9): ");
             int playerPos = scan.nextInt();
 
-            while(playerPositions.contains(playerPos) || cpuPositions.contains(playerPositions)){
+            while(playerPositions.contains(playerPos) || cpuPositions.contains(playerPos)){
                 System.out.println("Position Taken! Enter a Correct Position");
                 playerPos = scan.nextInt();
             }
 
             PlacePiece(gameBoard, playerPos, "Player");
 
-            String result = CheckWinner();
+            String result = CheckWinner(gameBoard);
             if(result.length() > 0){
                 System.out.println(result);
                 break;
@@ -46,7 +46,7 @@ public class Main {
 
             PrintGameBoard(gameBoard);
 
-            result = CheckWinner();
+            result = CheckWinner(gameBoard);
             if(result.length() > 0){
                 System.out.println(result);
                 break;
@@ -119,7 +119,7 @@ public class Main {
         }
     }
 
-    public static String CheckWinner()
+    public static String CheckWinner(char[][] gameBoard)
     {
         List topRow = Arrays.asList(1, 2, 3);
         List midRow = Arrays.asList(4, 5, 6);
@@ -142,17 +142,19 @@ public class Main {
 
         for(List l : winning){
             if(playerPositions.containsAll(l)){
+                PrintGameBoard(gameBoard);
                 return  "Congratulations, You WON !";
             }
             else if(cpuPositions.containsAll(l)){
+                PrintGameBoard(gameBoard);
                 return "You LOSE !";
             }
             else if(playerPositions.size() + cpuPositions.size() == 9){
+                PrintGameBoard(gameBoard);
                 return "It's TIE !";
             }
         }
 
-
-        return " ";
+        return "";
     }
 }
