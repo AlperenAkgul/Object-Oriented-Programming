@@ -1,3 +1,4 @@
 # Java-Calismalarim
-CPE207 Object Oriented Programming\n
+CPE207 Object Oriented Programming
+
 Nesne Tabanli Programlama ogrenirken yaptigim alistirmalar.
