@@ -13,4 +13,10 @@ public class Worker {
         salary = wage * workingHours;
         System.out.printf("Salary: %f", salary);
     }
+
+    float getSalary(){
+        float salary;
+        salary = wage * workingHours;
+        return salary;
+    }
 }
