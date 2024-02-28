@@ -1,4 +1,4 @@
-# Java-Calismalarim
+# Nesne Tabanli Programlama
 CPE207 Object Oriented Programming
 
-Nesne Tabanli Programlama ogrenirken yaptigim alistirmalar.
+Examples that i made during learing OOP.
