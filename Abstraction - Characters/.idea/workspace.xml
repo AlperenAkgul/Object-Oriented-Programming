@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee4d0fd4-bbf0-47c9-936d-9cea4073e13a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab10_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/out/production/Lab2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/out/production/Lab2/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/Lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/out/production/Lab3/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/out/production/Lab3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/Post.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/out/production/Post/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/out/production/Post/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/out/production/Post/PostOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/src/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Post/src/PostOffice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/RockPaperScissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/out/production/RockPaperScissors/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/out/production/RockPaperScissors/Gamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/out/production/RockPaperScissors/HandSign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/out/production/RockPaperScissors/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/src/Gamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/src/HandSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/RockPaperScissors/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/Lab5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/out/production/Lab5/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/out/production/Lab5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/out/production/Lab5/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/Lab5/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6/out/production/Lab6/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6/out/production/Lab6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Lab9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Shape2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Shape3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Shape2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Shape3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worker/Worker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worker/out/production/Worker/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worker/out/production/Worker/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worker/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worker/src/Worker.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2d0pTNbiEEtPOEXvftFlNQnZGe1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4d0fd4-bbf0-47c9-936d-9cea4073e13a" name="Changes" comment="" />
+      <created>1709154856813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709154856813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
