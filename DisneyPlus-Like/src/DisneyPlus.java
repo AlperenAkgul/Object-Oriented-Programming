@@ -175,26 +175,11 @@ public class DisneyPlus {
     }
 
     public void N7(){
-        int counter = 0;
         Movie temp = null;
         ArrayList<Movie> list = new ArrayList<Movie>();
         for(Asset a: assets){
             if(a instanceof Movie){
                 list.add((Movie) a);
-                /*if(counter == 0){ //Assigning first movie's average score for comparison
-                    temp = (Movie)a;
-                    counter++;
-                }
-                else{
-                    for(Asset b: assets){
-                        if(b instanceof Movie) {
-                            if(b.getAvgScore() > temp.getAvgScore()){
-                                temp = (Movie) b;
-                            }
-                        }
-                    }
-                    temp.showDetail();
-                }*/
             }
         }
         Collections.sort(list, new ScoreComparator());
