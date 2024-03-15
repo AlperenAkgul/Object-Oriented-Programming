@@ -42,6 +42,34 @@ public class Main {
         System.out.println("Minimum Score of " + m2.name + ": ");
         System.out.println(m2.getMinScore());
 
+        ArrayList<Integer> Movie3Scores = new ArrayList<Integer>();
+        ArrayList<Consumer> Movie3Actors = new ArrayList<Consumer>();
+        Movie m3 = new Movie(41, "Movie 3", Movie3Scores, 2009,
+                40, c1, "Movie", Movie3Actors, p4);
+        m3.addScore(9);
+        m3.addScore(7);
+        m3.addScore(9);
+        m3.addActor(p3);
+        m3.addActor(p1);
+        System.out.println("\nMaximum Score of " + m3.name + ": ");
+        System.out.println(m3.getMaxScore());
+        System.out.println("Minimum Score of " + m3.name + ": ");
+        System.out.println(m3.getMinScore());
+
+        ArrayList<Integer> Movie4Scores = new ArrayList<Integer>();
+        ArrayList<Consumer> Movie4Actors = new ArrayList<Consumer>();
+        Movie m4 = new Movie(41, "Movie 4", Movie4Scores, 2009,
+                40, c1, "Movie", Movie4Actors, p4);
+        m4.addScore(8);
+        m4.addScore(3);
+        m4.addScore(5);
+        m4.addActor(p2);
+        m4.addActor(p3);
+        System.out.println("\nMaximum Score of " + m4.name + ": ");
+        System.out.println(m4.getMaxScore());
+        System.out.println("Minimum Score of " + m4.name + ": ");
+        System.out.println(m4.getMinScore());
+
         //First Book
         ArrayList<Integer> Book1Scores = new ArrayList<Integer>();
         Book b1 = new Book(23, "Book 1", Book1Scores, 2023,
@@ -73,6 +101,8 @@ public class Main {
         disneyPlus.addBook(b2);
         disneyPlus.addMovie(m1);
         disneyPlus.addMovie(m2);
+        disneyPlus.addMovie(m3);
+        disneyPlus.addMovie(m4);
 
         System.out.println("\nAnswer of N1: \n");
         disneyPlus.N1();
@@ -86,5 +116,7 @@ public class Main {
         disneyPlus.N5(1); // Person One
         System.out.println("\nAnswer of N6: \n");
         disneyPlus.N6();
+        System.out.println("\nAnswer of N7: \n");
+        disneyPlus.N7();
     }
 }
